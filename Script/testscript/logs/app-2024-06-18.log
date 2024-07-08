@@ -1,0 +1,251 @@
+[DEBUG] 2024-06-18 14:52:59.560 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-18 14:52:59.569 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-06-18 14:52:59.570 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[TRACE] 2024-06-18 14:52:59.755 [main] XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-06-18 14:52:59.758 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-06-18 14:52:59.760 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-06-18 14:52:59.760 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-06-18 14:52:59.761 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-06-18 14:52:59.761 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-06-18 14:52:59.775 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-06-18 14:52:59.776 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-06-18 14:52:59.780 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-06-18 14:52:59.781 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-06-18 14:52:59.782 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-06-18 14:52:59.782 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-06-18 14:52:59.784 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-06-18 14:52:59.784 [main] XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-06-18 14:52:59.839 [main] XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-06-18 14:52:59.841 [main] XBeanDebug - Resolving type for handle themefd26doctype
+[TRACE] 2024-06-18 14:52:59.904 [main] XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2024-06-18 14:52:59.911 [main] XBeanDebug - Resolving type for handle ctstylesheet4257type
+[TRACE] 2024-06-18 14:52:59.918 [main] XBeanDebug - Resolving type for handle ctfonts6623type
+[TRACE] 2024-06-18 14:52:59.924 [main] XBeanDebug - Resolving type for handle ctfont14d8type
+[TRACE] 2024-06-18 14:52:59.930 [main] XBeanDebug - Resolving type for handle ctfills2c6ftype
+[TRACE] 2024-06-18 14:52:59.932 [main] XBeanDebug - Resolving type for handle ctfill550ctype
+[TRACE] 2024-06-18 14:52:59.934 [main] XBeanDebug - Resolving type for handle ctborders0d66type
+[TRACE] 2024-06-18 14:52:59.938 [main] XBeanDebug - Resolving type for handle ctborderf935type
+[TRACE] 2024-06-18 14:52:59.941 [main] XBeanDebug - Resolving type for handle ctcellxfs1322type
+[TRACE] 2024-06-18 14:52:59.947 [main] XBeanDebug - Resolving type for handle ctxf97f7type
+[TRACE] 2024-06-18 14:52:59.951 [main] XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2024-06-18 14:52:59.953 [main] XBeanDebug - Resolving type for handle ctdxfsb26atype
+[TRACE] 2024-06-18 14:52:59.957 [main] XBeanDebug - Resolving type for handle cttablestyles872ftype
+[DEBUG] 2024-06-18 14:52:59.960 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2024-06-18 14:52:59.961 [main] XBeanDebug - Resolving type for handle workbookec17doctype
+[TRACE] 2024-06-18 14:52:59.968 [main] XBeanDebug - Resolving type for handle ctworkbook83c3type
+[TRACE] 2024-06-18 14:52:59.976 [main] XBeanDebug - Resolving type for handle sstf81fdoctype
+[TRACE] 2024-06-18 14:52:59.979 [main] XBeanDebug - Resolving type for handle ctsst44f3type
+[TRACE] 2024-06-18 14:52:59.981 [main] XBeanDebug - Resolving type for handle ctsheets49fdtype
+[TRACE] 2024-06-18 14:52:59.985 [main] XBeanDebug - Resolving type for handle ctsheet4dbetype
+[TRACE] 2024-06-18 14:52:59.988 [main] XBeanDebug - Resolving type for handle strelationshipid1e94type
+[TRACE] 2024-06-18 14:52:59.993 [main] XBeanDebug - Resolving type for handle worksheetf539doctype
+[TRACE] 2024-06-18 14:53:00.002 [main] XBeanDebug - Resolving type for handle ctworksheet530dtype
+[TRACE] 2024-06-18 14:53:00.013 [main] XBeanDebug - Resolving type for handle ctcols627ctype
+[TRACE] 2024-06-18 14:53:00.019 [main] XBeanDebug - Resolving type for handle ctcola95ftype
+[TRACE] 2024-06-18 14:53:00.046 [main] XBeanDebug - Resolving type for handle ctsheetdata8408type
+[TRACE] 2024-06-18 14:53:00.051 [main] XBeanDebug - Resolving type for handle ctrowdd39type
+[TRACE] 2024-06-18 14:53:00.058 [main] XBeanDebug - Resolving type for handle ctcell842btype
+[TRACE] 2024-06-18 14:53:00.066 [main] XBeanDebug - Resolving type for handle stcellrefe4e0type
+[TRACE] 2024-06-18 14:53:00.078 [main] XBeanDebug - Resolving type for handle stxstringf179type
+[TRACE] 2024-06-18 14:53:00.080 [main] XBeanDebug - Resolving type for handle stcelltypebf95type
+[DEBUG] 2024-06-18 18:24:03.610 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-18 18:24:03.617 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-06-18 18:24:03.619 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[TRACE] 2024-06-18 18:24:03.907 [main] XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-06-18 18:24:03.913 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-06-18 18:24:03.914 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-06-18 18:24:03.915 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-06-18 18:24:03.916 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-06-18 18:24:03.918 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-06-18 18:24:03.936 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-06-18 18:24:03.937 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-06-18 18:24:03.948 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-06-18 18:24:03.949 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-06-18 18:24:03.950 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-06-18 18:24:03.951 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-06-18 18:24:03.952 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-06-18 18:24:03.953 [main] XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-06-18 18:24:04.023 [main] XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-06-18 18:24:04.024 [main] XBeanDebug - Resolving type for handle themefd26doctype
+[TRACE] 2024-06-18 18:24:04.115 [main] XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2024-06-18 18:24:04.125 [main] XBeanDebug - Resolving type for handle ctstylesheet4257type
+[TRACE] 2024-06-18 18:24:04.133 [main] XBeanDebug - Resolving type for handle ctfonts6623type
+[TRACE] 2024-06-18 18:24:04.138 [main] XBeanDebug - Resolving type for handle ctfont14d8type
+[TRACE] 2024-06-18 18:24:04.147 [main] XBeanDebug - Resolving type for handle ctfills2c6ftype
+[TRACE] 2024-06-18 18:24:04.151 [main] XBeanDebug - Resolving type for handle ctfill550ctype
+[TRACE] 2024-06-18 18:24:04.155 [main] XBeanDebug - Resolving type for handle ctborders0d66type
+[TRACE] 2024-06-18 18:24:04.159 [main] XBeanDebug - Resolving type for handle ctborderf935type
+[TRACE] 2024-06-18 18:24:04.165 [main] XBeanDebug - Resolving type for handle ctcellxfs1322type
+[TRACE] 2024-06-18 18:24:04.171 [main] XBeanDebug - Resolving type for handle ctxf97f7type
+[TRACE] 2024-06-18 18:24:04.176 [main] XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2024-06-18 18:24:04.180 [main] XBeanDebug - Resolving type for handle ctdxfsb26atype
+[TRACE] 2024-06-18 18:24:04.184 [main] XBeanDebug - Resolving type for handle cttablestyles872ftype
+[TRACE] 2024-06-18 18:24:04.190 [main] XBeanDebug - Resolving type for handle sstf81fdoctype
+[TRACE] 2024-06-18 18:24:04.195 [main] XBeanDebug - Resolving type for handle ctsst44f3type
+[DEBUG] 2024-06-18 18:24:04.198 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2024-06-18 18:24:04.199 [main] XBeanDebug - Resolving type for handle workbookec17doctype
+[TRACE] 2024-06-18 18:24:04.205 [main] XBeanDebug - Resolving type for handle ctworkbook83c3type
+[TRACE] 2024-06-18 18:24:04.212 [main] XBeanDebug - Resolving type for handle ctsheets49fdtype
+[TRACE] 2024-06-18 18:24:04.216 [main] XBeanDebug - Resolving type for handle ctsheet4dbetype
+[TRACE] 2024-06-18 18:24:04.218 [main] XBeanDebug - Resolving type for handle strelationshipid1e94type
+[TRACE] 2024-06-18 18:24:04.224 [main] XBeanDebug - Resolving type for handle worksheetf539doctype
+[TRACE] 2024-06-18 18:24:04.237 [main] XBeanDebug - Resolving type for handle ctworksheet530dtype
+[TRACE] 2024-06-18 18:24:04.248 [main] XBeanDebug - Resolving type for handle ctcols627ctype
+[TRACE] 2024-06-18 18:24:04.255 [main] XBeanDebug - Resolving type for handle ctcola95ftype
+[TRACE] 2024-06-18 18:24:04.286 [main] XBeanDebug - Resolving type for handle ctsheetdata8408type
+[TRACE] 2024-06-18 18:24:04.291 [main] XBeanDebug - Resolving type for handle ctrowdd39type
+[TRACE] 2024-06-18 18:24:04.299 [main] XBeanDebug - Resolving type for handle ctcell842btype
+[TRACE] 2024-06-18 18:24:04.307 [main] XBeanDebug - Resolving type for handle stcellrefe4e0type
+[TRACE] 2024-06-18 18:24:04.328 [main] XBeanDebug - Resolving type for handle stxstringf179type
+[TRACE] 2024-06-18 18:24:04.331 [main] XBeanDebug - Resolving type for handle stcelltypebf95type
+[DEBUG] 2024-06-18 18:29:05.519 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-18 18:29:05.530 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-06-18 18:29:05.531 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[TRACE] 2024-06-18 18:29:05.772 [main] XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-06-18 18:29:05.778 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-06-18 18:29:05.779 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-06-18 18:29:05.780 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-06-18 18:29:05.780 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-06-18 18:29:05.782 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-06-18 18:29:05.802 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-06-18 18:29:05.803 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-06-18 18:29:05.811 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-06-18 18:29:05.812 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-06-18 18:29:05.813 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-06-18 18:29:05.814 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-06-18 18:29:05.815 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-06-18 18:29:05.816 [main] XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-06-18 18:29:05.909 [main] XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-06-18 18:29:05.910 [main] XBeanDebug - Resolving type for handle themefd26doctype
+[TRACE] 2024-06-18 18:29:06.021 [main] XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2024-06-18 18:29:06.032 [main] XBeanDebug - Resolving type for handle ctstylesheet4257type
+[TRACE] 2024-06-18 18:29:06.039 [main] XBeanDebug - Resolving type for handle ctfonts6623type
+[TRACE] 2024-06-18 18:29:06.044 [main] XBeanDebug - Resolving type for handle ctfont14d8type
+[TRACE] 2024-06-18 18:29:06.052 [main] XBeanDebug - Resolving type for handle ctfills2c6ftype
+[TRACE] 2024-06-18 18:29:06.055 [main] XBeanDebug - Resolving type for handle ctfill550ctype
+[TRACE] 2024-06-18 18:29:06.058 [main] XBeanDebug - Resolving type for handle ctborders0d66type
+[TRACE] 2024-06-18 18:29:06.062 [main] XBeanDebug - Resolving type for handle ctborderf935type
+[TRACE] 2024-06-18 18:29:06.068 [main] XBeanDebug - Resolving type for handle ctcellxfs1322type
+[TRACE] 2024-06-18 18:29:06.072 [main] XBeanDebug - Resolving type for handle ctxf97f7type
+[TRACE] 2024-06-18 18:29:06.076 [main] XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2024-06-18 18:29:06.079 [main] XBeanDebug - Resolving type for handle ctdxfsb26atype
+[TRACE] 2024-06-18 18:29:06.082 [main] XBeanDebug - Resolving type for handle cttablestyles872ftype
+[TRACE] 2024-06-18 18:29:06.086 [main] XBeanDebug - Resolving type for handle sstf81fdoctype
+[TRACE] 2024-06-18 18:29:06.090 [main] XBeanDebug - Resolving type for handle ctsst44f3type
+[DEBUG] 2024-06-18 18:29:06.093 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2024-06-18 18:29:06.093 [main] XBeanDebug - Resolving type for handle workbookec17doctype
+[TRACE] 2024-06-18 18:29:06.098 [main] XBeanDebug - Resolving type for handle ctworkbook83c3type
+[TRACE] 2024-06-18 18:29:06.104 [main] XBeanDebug - Resolving type for handle ctsheets49fdtype
+[TRACE] 2024-06-18 18:29:06.107 [main] XBeanDebug - Resolving type for handle ctsheet4dbetype
+[TRACE] 2024-06-18 18:29:06.111 [main] XBeanDebug - Resolving type for handle strelationshipid1e94type
+[TRACE] 2024-06-18 18:29:06.114 [main] XBeanDebug - Resolving type for handle worksheetf539doctype
+[TRACE] 2024-06-18 18:29:06.130 [main] XBeanDebug - Resolving type for handle ctworksheet530dtype
+[TRACE] 2024-06-18 18:29:06.144 [main] XBeanDebug - Resolving type for handle ctcols627ctype
+[TRACE] 2024-06-18 18:29:06.151 [main] XBeanDebug - Resolving type for handle ctcola95ftype
+[TRACE] 2024-06-18 18:29:06.183 [main] XBeanDebug - Resolving type for handle ctsheetdata8408type
+[TRACE] 2024-06-18 18:29:06.187 [main] XBeanDebug - Resolving type for handle ctrowdd39type
+[TRACE] 2024-06-18 18:29:06.196 [main] XBeanDebug - Resolving type for handle ctcell842btype
+[TRACE] 2024-06-18 18:29:06.205 [main] XBeanDebug - Resolving type for handle stcellrefe4e0type
+[TRACE] 2024-06-18 18:29:06.224 [main] XBeanDebug - Resolving type for handle stxstringf179type
+[TRACE] 2024-06-18 18:29:06.227 [main] XBeanDebug - Resolving type for handle stcelltypebf95type
+[DEBUG] 2024-06-18 18:41:41.722 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-18 18:41:41.735 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-06-18 18:41:41.738 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[TRACE] 2024-06-18 18:41:41.999 [main] XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-06-18 18:41:42.004 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-06-18 18:41:42.005 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-06-18 18:41:42.006 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-06-18 18:41:42.007 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-06-18 18:41:42.009 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-06-18 18:41:42.028 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-06-18 18:41:42.031 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-06-18 18:41:42.038 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-06-18 18:41:42.039 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-06-18 18:41:42.042 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-06-18 18:41:42.043 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-06-18 18:41:42.044 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-06-18 18:41:42.046 [main] XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-06-18 18:41:42.130 [main] XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-06-18 18:41:42.131 [main] XBeanDebug - Resolving type for handle themefd26doctype
+[TRACE] 2024-06-18 18:41:42.217 [main] XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2024-06-18 18:41:42.225 [main] XBeanDebug - Resolving type for handle ctstylesheet4257type
+[TRACE] 2024-06-18 18:41:42.234 [main] XBeanDebug - Resolving type for handle ctfonts6623type
+[TRACE] 2024-06-18 18:41:42.239 [main] XBeanDebug - Resolving type for handle ctfont14d8type
+[TRACE] 2024-06-18 18:41:42.246 [main] XBeanDebug - Resolving type for handle ctfills2c6ftype
+[TRACE] 2024-06-18 18:41:42.250 [main] XBeanDebug - Resolving type for handle ctfill550ctype
+[TRACE] 2024-06-18 18:41:42.252 [main] XBeanDebug - Resolving type for handle ctborders0d66type
+[TRACE] 2024-06-18 18:41:42.255 [main] XBeanDebug - Resolving type for handle ctborderf935type
+[TRACE] 2024-06-18 18:41:42.259 [main] XBeanDebug - Resolving type for handle ctcellxfs1322type
+[TRACE] 2024-06-18 18:41:42.264 [main] XBeanDebug - Resolving type for handle ctxf97f7type
+[TRACE] 2024-06-18 18:41:42.269 [main] XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2024-06-18 18:41:42.272 [main] XBeanDebug - Resolving type for handle ctdxfsb26atype
+[TRACE] 2024-06-18 18:41:42.274 [main] XBeanDebug - Resolving type for handle cttablestyles872ftype
+[TRACE] 2024-06-18 18:41:42.278 [main] XBeanDebug - Resolving type for handle sstf81fdoctype
+[TRACE] 2024-06-18 18:41:42.285 [main] XBeanDebug - Resolving type for handle ctsst44f3type
+[TRACE] 2024-06-18 18:41:42.298 [main] XBeanDebug - Resolving type for handle ctrsta472type
+[DEBUG] 2024-06-18 18:41:42.321 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2024-06-18 18:41:42.324 [main] XBeanDebug - Resolving type for handle workbookec17doctype
+[TRACE] 2024-06-18 18:41:42.332 [main] XBeanDebug - Resolving type for handle ctworkbook83c3type
+[TRACE] 2024-06-18 18:41:42.339 [main] XBeanDebug - Resolving type for handle ctsheets49fdtype
+[TRACE] 2024-06-18 18:41:42.343 [main] XBeanDebug - Resolving type for handle ctsheet4dbetype
+[TRACE] 2024-06-18 18:41:42.346 [main] XBeanDebug - Resolving type for handle strelationshipid1e94type
+[TRACE] 2024-06-18 18:41:42.350 [main] XBeanDebug - Resolving type for handle worksheetf539doctype
+[TRACE] 2024-06-18 18:41:42.366 [main] XBeanDebug - Resolving type for handle ctworksheet530dtype
+[TRACE] 2024-06-18 18:41:42.379 [main] XBeanDebug - Resolving type for handle ctcols627ctype
+[TRACE] 2024-06-18 18:41:42.387 [main] XBeanDebug - Resolving type for handle ctcola95ftype
+[TRACE] 2024-06-18 18:41:42.403 [main] XBeanDebug - Resolving type for handle ctsheetdata8408type
+[TRACE] 2024-06-18 18:41:42.407 [main] XBeanDebug - Resolving type for handle ctrowdd39type
+[TRACE] 2024-06-18 18:41:42.415 [main] XBeanDebug - Resolving type for handle ctcell842btype
+[TRACE] 2024-06-18 18:41:42.423 [main] XBeanDebug - Resolving type for handle stcellrefe4e0type
+[TRACE] 2024-06-18 18:41:42.441 [main] XBeanDebug - Resolving type for handle stxstringf179type
+[TRACE] 2024-06-18 18:41:42.444 [main] XBeanDebug - Resolving type for handle stcelltypebf95type
+[DEBUG] 2024-06-18 19:00:35.981 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-06-18 19:00:35.990 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-06-18 19:00:35.992 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[TRACE] 2024-06-18 19:00:36.212 [main] XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-06-18 19:00:36.217 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-06-18 19:00:36.217 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-06-18 19:00:36.218 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-06-18 19:00:36.218 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-06-18 19:00:36.221 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-06-18 19:00:36.239 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-06-18 19:00:36.241 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-06-18 19:00:36.247 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-06-18 19:00:36.248 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-06-18 19:00:36.250 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-06-18 19:00:36.251 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-06-18 19:00:36.252 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-06-18 19:00:36.253 [main] XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-06-18 19:00:36.342 [main] XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-06-18 19:00:36.343 [main] XBeanDebug - Resolving type for handle themefd26doctype
+[TRACE] 2024-06-18 19:00:36.426 [main] XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2024-06-18 19:00:36.437 [main] XBeanDebug - Resolving type for handle ctstylesheet4257type
+[TRACE] 2024-06-18 19:00:36.446 [main] XBeanDebug - Resolving type for handle ctfonts6623type
+[TRACE] 2024-06-18 19:00:36.452 [main] XBeanDebug - Resolving type for handle ctfont14d8type
+[TRACE] 2024-06-18 19:00:36.460 [main] XBeanDebug - Resolving type for handle ctfills2c6ftype
+[TRACE] 2024-06-18 19:00:36.463 [main] XBeanDebug - Resolving type for handle ctfill550ctype
+[TRACE] 2024-06-18 19:00:36.466 [main] XBeanDebug - Resolving type for handle ctborders0d66type
+[TRACE] 2024-06-18 19:00:36.471 [main] XBeanDebug - Resolving type for handle ctborderf935type
+[TRACE] 2024-06-18 19:00:36.477 [main] XBeanDebug - Resolving type for handle ctcellxfs1322type
+[TRACE] 2024-06-18 19:00:36.483 [main] XBeanDebug - Resolving type for handle ctxf97f7type
+[TRACE] 2024-06-18 19:00:36.488 [main] XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2024-06-18 19:00:36.492 [main] XBeanDebug - Resolving type for handle ctdxfsb26atype
+[TRACE] 2024-06-18 19:00:36.497 [main] XBeanDebug - Resolving type for handle cttablestyles872ftype
+[TRACE] 2024-06-18 19:00:36.504 [main] XBeanDebug - Resolving type for handle sstf81fdoctype
+[TRACE] 2024-06-18 19:00:36.510 [main] XBeanDebug - Resolving type for handle ctsst44f3type
+[DEBUG] 2024-06-18 19:00:36.513 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2024-06-18 19:00:36.514 [main] XBeanDebug - Resolving type for handle workbookec17doctype
+[TRACE] 2024-06-18 19:00:36.523 [main] XBeanDebug - Resolving type for handle ctworkbook83c3type
+[TRACE] 2024-06-18 19:00:36.532 [main] XBeanDebug - Resolving type for handle ctsheets49fdtype
+[TRACE] 2024-06-18 19:00:36.537 [main] XBeanDebug - Resolving type for handle ctsheet4dbetype
+[TRACE] 2024-06-18 19:00:36.540 [main] XBeanDebug - Resolving type for handle strelationshipid1e94type
+[TRACE] 2024-06-18 19:00:36.547 [main] XBeanDebug - Resolving type for handle worksheetf539doctype
+[TRACE] 2024-06-18 19:00:36.564 [main] XBeanDebug - Resolving type for handle ctworksheet530dtype
+[TRACE] 2024-06-18 19:00:36.593 [main] XBeanDebug - Resolving type for handle ctcols627ctype
+[TRACE] 2024-06-18 19:00:36.601 [main] XBeanDebug - Resolving type for handle ctcola95ftype
+[TRACE] 2024-06-18 19:00:36.641 [main] XBeanDebug - Resolving type for handle ctsheetdata8408type
+[TRACE] 2024-06-18 19:00:36.646 [main] XBeanDebug - Resolving type for handle ctrowdd39type
+[TRACE] 2024-06-18 19:00:36.654 [main] XBeanDebug - Resolving type for handle ctcell842btype
+[TRACE] 2024-06-18 19:00:36.664 [main] XBeanDebug - Resolving type for handle stcellrefe4e0type
+[TRACE] 2024-06-18 19:00:36.686 [main] XBeanDebug - Resolving type for handle stxstringf179type
+[TRACE] 2024-06-18 19:00:36.690 [main] XBeanDebug - Resolving type for handle stcelltypebf95type

@@ -1,0 +1,12 @@
+[INFO ] 2024-06-05 17:05:57.128 [main] log4jdemo - This is information method
+[ERROR] 2024-06-05 17:05:57.131 [main] log4jdemo - This is error msg
+[WARN ] 2024-06-05 17:05:57.131 [main] log4jdemo - This is warn msg
+[FATAL] 2024-06-05 17:05:57.131 [main] log4jdemo - This is Fatel msg
+[INFO ] 2024-06-05 17:09:34.923 [main] log4jdemo - This is information method
+[ERROR] 2024-06-05 17:09:34.925 [main] log4jdemo - This is error msg
+[WARN ] 2024-06-05 17:09:34.925 [main] log4jdemo - This is warn msg
+[FATAL] 2024-06-05 17:09:34.926 [main] log4jdemo - This is Fatel msg
+[INFO ] 2024-06-05 17:11:37.587 [main] log4jdemo - This is information method
+[ERROR] 2024-06-05 17:11:37.590 [main] log4jdemo - This is error msg
+[WARN ] 2024-06-05 17:11:37.590 [main] log4jdemo - This is warn msg
+[FATAL] 2024-06-05 17:11:37.590 [main] log4jdemo - This is Fatel msg
